@@ -4,7 +4,7 @@
     "description": "Dashboard travel",
     "private": true,
     "dependencies": {
-        "axios": "^0.21.1",
+        "axios": "^0.21.2",
         "materialize-css": "^1.0.0-rc.2",
         "react": "^16.14.0",
         "react-dom": "^16.14.0",
